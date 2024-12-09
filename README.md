@@ -1,6 +1,5 @@
 # Gentle-Recall by Cristian Camilo Silva Padilla
-Gentle Recall (Final Project Game Development &amp; Design)  
-Introduction:
+# Introduction:
 This proof-of-concept game presents a gentle, interactive approach to supporting individuals experiencing memory challenges, such as those seen in Alzheimer’s. By incorporating familiar images, personalized puzzles, and step-by-step memory tasks, the game aims to transform routine cognitive exercises into engaging, meaningful experiences. Through this integration of play and purpose, the project demonstrates how gamification can encourage participants to actively engage with their memories, helping maintain cognitive stimulation and emotional connection.
 
 # Objectives and Goals:
