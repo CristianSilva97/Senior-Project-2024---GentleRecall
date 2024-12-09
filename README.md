@@ -5,9 +5,13 @@ This proof-of-concept game presents a gentle, interactive approach to supporting
 # Objectives and Goals:
 
 Cognitive Engagement: Enhance recall through image-based memory puzzles that gradually reveal cherished photographs.
+
 Personalization: Allow caregivers or loved ones to upload meaningful images, creating a more emotionally resonant and supportive environment.
+
 Accessibility and Simplicity: Present tasks that are easy to understand, minimizing frustration and encouraging repeated engagement.
+
 Proof of Concept: Offer a foundation for future development, inviting others to expand on these initial ideas and refine the approach.
+
 Gamification of Alzheimer’s Cognitive Exercises:
 By turning memory exercises into a game, this project taps into core elements of engagement—fun, challenge, and a sense of achievement. The puzzles reward correct matches with incremental image reveals, turning each moment of success into positive reinforcement. This structured approach can help motivate users who might otherwise find traditional exercises repetitive or discouraging. Gamification thus becomes a supportive tool, gently nudging the player to persevere, stimulating memory recall in a way that feels less clinical and more uplifting.
 
